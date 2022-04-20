@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4737736270211626473
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -750627606701587212, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: rangeHighlight
+      value: 
+      objectReference: {fileID: 1005372317025384449}
+    - target: {fileID: 154795547079012867, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2798913748850394467, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Name
+      value: Mountain Tile
+      objectReference: {fileID: 0}
+    - target: {fileID: 5555773587229148194, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.b
+      value: 0.38597363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4487905
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.r
+      value: 0.49056602
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+--- !u!1 &1005372317025384449 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5497803067682033128, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+  m_PrefabInstance: {fileID: 4737736270211626473}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &1263168252513191948 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+  m_PrefabInstance: {fileID: 4737736270211626473}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2145636249419821464 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6663364570048627825, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+  m_PrefabInstance: {fileID: 4737736270211626473}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7451327839399178378 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2798913748850394467, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+  m_PrefabInstance: {fileID: 4737736270211626473}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-5128559355391493039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7451327839399178378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae868919a5630c743bd84cc16297d0cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TileName: Mountain
+  renderer: {fileID: 1263168252513191948}
+  _highlight: {fileID: 2145636249419821464}
+  rangeHighlight: {fileID: 1005372317025384449}
+  _isWalkable: 0
+  OccupiedUnit: {fileID: 0}
+  inRange: 0
